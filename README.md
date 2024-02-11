@@ -1,6 +1,6 @@
 # Netflix Clone
 
-![Netflix Clone](netflix_clone_screenshot.png)
+(netflix.png)
 
 ## Description
 
