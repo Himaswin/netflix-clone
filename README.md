@@ -1,6 +1,6 @@
 # Netflix Clone
 
-![Netflix Clone](netflix.png)
+<img src="netflix.png" alt="Netflix Clone" />
 
 ## Description
 
